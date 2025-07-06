@@ -1,4 +1,4 @@
-# Single-Nucleus-RNA-Seq-Analysis-of-Hepatoblastoma-Tumors
+# Single-Cell-RNA-Seq-Analysis-of-Hepatoblastoma-Tumors
 This repository contains the code, data processing pipeline, and visualizations for a single-nucleus RNA-seq (snRNA-seq) study of hepatoblastoma.The dataset includes nuclei from patient tumor tissues, background liver, and patient-derived xenografts (PDX). The project replicates and extends analyses from the hepatoblastoma study published in Nature Cancer (PMID: 34497364).
 
 Key Steps:
