@@ -16,7 +16,7 @@ snrna_hb_project/
 │   ├── 01_initial_qc_normalization_harmony.R
 │   ├── 02_annotation_and_differential_expression.R
 │   ├── 03_celltype_composition_analysis.R
-│   └── run_all.R
+│   
 ├── envs/
 │   └── Dockerfile
 ├── .dockerignore
@@ -58,12 +58,6 @@ basedir <- "/your/absolute/path/to/data"
 source("scripts/01_initial_qc_normalization_harmony.R")
 source("scripts/02_annotation_and_differential_expression.R")
 source("scripts/03_celltype_composition_analysis.R")
-```
-
-Or run them all at once:
-
-```r
-source("scripts/run_all.R")
 ```
 
 ---
