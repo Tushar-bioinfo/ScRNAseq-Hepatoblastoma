@@ -1,4 +1,4 @@
-# Single-Nucleus RNA-seq Analysis of Hepatoblastoma    
+# Single-Nucleus RNA-seq Analysis of Hepatoblastoma     
  
 This project analyzes single-nucleus RNA-seq (snRNA-seq) data from hepatoblastoma tumors, PDX models, and normal samples using the Seurat and Harmony frameworks. The pipeline includes data preprocessing, batch correction, clustering, manual annotation using GeneCards, differential expression analysis, and cell composition visualization.
 
