@@ -5,7 +5,7 @@ This project analyzes single-nucleus RNA-seq (snRNA-seq) data from hepatoblastom
 All steps are reproducible via Docker.  
  
 ---    
- 
+  
 ## Project Structure
 
 ```
