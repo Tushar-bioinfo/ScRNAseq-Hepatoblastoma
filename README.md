@@ -6,7 +6,7 @@ All steps are reproducible via Docker.
    
 ---      
      
-## Project Structure
+## Project Structure 
 
 ```
 snrna_hb_project/
