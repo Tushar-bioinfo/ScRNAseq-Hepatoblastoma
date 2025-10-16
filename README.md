@@ -3,7 +3,7 @@
 This project analyzes single-nucleus RNA-seq (snRNA-seq) data from hepatoblastoma tumors, PDX models, and normal samples using the Seurat and Harmony frameworks. The pipeline includes data preprocessing, batch correction, clustering, manual annotation using GeneCards, differential expression analysis, and cell composition visualization.
 
 All steps are reproducible via Docker.  
-
+ 
 --- 
 
 ## Project Structure
